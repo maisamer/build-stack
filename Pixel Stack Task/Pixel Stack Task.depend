@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1508315314 source:/home/hermas/project/Pixel Stack Task/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"linkedList.h"
+
+1508280769 /home/hermas/project/Pixel Stack Task/linkedList.h
+
